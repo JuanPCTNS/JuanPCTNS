@@ -12,7 +12,7 @@
 </a>
 
 ### - 🔭 I’m currently working at TNS, a local software development company specialized in providing accounting software solutions for companies with a Saas model.
-### - 🌱 I’m currently learning C# with .NET.
+### - 🌱 I’m currently working with C# and .NET.
 
 <summary>My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
 <p align="center">
